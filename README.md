@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjali1684/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Anjali1684/LeetCode/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/Anjali1684/LeetCode/tree/master/3447-clear-digits) |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
