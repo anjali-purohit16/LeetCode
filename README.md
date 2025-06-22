@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjali1684/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anjali1684/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Anjali1684/LeetCode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anjali1684/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Anjali1684/LeetCode/tree/master/1666-make-the-string-great) |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anjali1684/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
