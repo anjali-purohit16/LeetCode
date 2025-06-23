@@ -84,4 +84,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anjali1684/LeetCode/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
