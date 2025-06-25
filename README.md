@@ -12,6 +12,7 @@
 | [0682-baseball-game](https://github.com/Anjali1684/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anjali1684/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anjali1684/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anjali1684/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anjali1684/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
