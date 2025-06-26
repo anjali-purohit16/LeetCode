@@ -69,10 +69,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Anjali1684/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anjali1684/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Anjali1684/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anjali1684/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anjali1684/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Counting Sort
