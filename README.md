@@ -92,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anjali1684/LeetCode/tree/master/0069-sqrtx) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
 |  |
@@ -100,5 +101,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anjali1684/LeetCode/tree/master/0069-sqrtx) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anjali1684/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
