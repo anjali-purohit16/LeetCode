@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Anjali1684/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anjali1684/LeetCode/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali1684/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anjali1684/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anjali1684/LeetCode/tree/master/0198-house-robber) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali1684/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Anjali1684/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Anjali1684/LeetCode/tree/master/1666-make-the-string-great) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anjali1684/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Anjali1684/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anjali1684/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anjali1684/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -168,6 +172,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 ## Topological Sort
 |  |
 | ------- |
