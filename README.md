@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anjali1684/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anjali1684/LeetCode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/Anjali1684/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anjali1684/LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Anjali1684/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 ## Math
