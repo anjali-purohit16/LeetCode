@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Anjali1684/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Anjali1684/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anjali1684/LeetCode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/anjali-purohit16/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Anjali1684/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/anjali-purohit16/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anjali-purohit16/LeetCode/tree/master/0057-insert-interval) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anjali1684/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Anjali1684/LeetCode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/anjali-purohit16/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Anjali1684/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
