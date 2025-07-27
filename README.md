@@ -135,6 +135,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/anjali-purohit16/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Anjali1684/LeetCode/tree/master/0069-sqrtx) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
