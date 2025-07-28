@@ -38,6 +38,7 @@
 | [0041-first-missing-positive](https://github.com/Anjali1684/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/anjali-purohit16/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/anjali-purohit16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@
 | [0076-minimum-window-substring](https://github.com/anjali-purohit16/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/anjali-purohit16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/anjali-purohit16/LeetCode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
