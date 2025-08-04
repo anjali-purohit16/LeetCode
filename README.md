@@ -20,6 +20,7 @@
 | [0135-candy](https://github.com/anjali-purohit16/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Anjali1684/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Anjali1684/LeetCode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/anjali-purohit16/LeetCode/tree/master/0312-burst-balloons) |
@@ -40,6 +41,7 @@
 | [0041-first-missing-positive](https://github.com/Anjali1684/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/anjali-purohit16/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anjali-purohit16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/anjali-purohit16/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anjali-purohit16/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 ## Linked List
@@ -123,6 +126,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 ## Sliding Window
 |  |
@@ -234,4 +238,8 @@
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anjali-purohit16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
