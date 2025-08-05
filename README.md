@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Anjali1684/LeetCode/tree/master/0198-house-robber) |
+| [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0312-burst-balloons](https://github.com/anjali-purohit16/LeetCode/tree/master/0312-burst-balloons) |
 | [0503-next-greater-element-ii](https://github.com/Anjali1684/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
@@ -43,6 +44,7 @@
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anjali-purohit16/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@
 | [0056-merge-intervals](https://github.com/anjali-purohit16/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anjali-purohit16/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 ## Linked List
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 ## Sliding Window
 |  |
