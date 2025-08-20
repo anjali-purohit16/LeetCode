@@ -32,6 +32,7 @@
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Anjali1684/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anjali-purohit16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anjali1684/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anjali1684/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -64,6 +65,7 @@
 | [0198-house-robber](https://github.com/Anjali1684/LeetCode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/anjali-purohit16/LeetCode/tree/master/0312-burst-balloons) |
 | [1008-binary-tree-cameras](https://github.com/Anjali1684/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0174-dungeon-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Topological Sort
 |  |
 | ------- |
