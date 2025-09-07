@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjali-purohit16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Anjali1684/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anjali1684/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/anjali-purohit16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anjali-purohit16/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Anjali1684/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anjali-purohit16/LeetCode/tree/master/0053-maximum-subarray) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anjali1684/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anjali-purohit16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anjali-purohit16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjali-purohit16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anjali-purohit16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjali1684/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali1684/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Anjali1684/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -110,6 +113,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anjali-purohit16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Anjali1684/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
 ## Sorting
@@ -135,6 +139,7 @@
 | [0015-3sum](https://github.com/anjali-purohit16/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anjali-purohit16/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjali-purohit16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/anjali-purohit16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Anjali1684/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/anjali-purohit16/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anjali1684/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
