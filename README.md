@@ -41,6 +41,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anjali1684/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anjali-purohit16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anjali1684/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0443-string-compression](https://github.com/anjali-purohit16/LeetCode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Anjali1684/LeetCode/tree/master/1666-make-the-string-great) |
+| [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 | [3447-clear-digits](https://github.com/Anjali1684/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -180,6 +183,7 @@
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +258,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
+| [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 ## Trie
 |  |
 | ------- |
