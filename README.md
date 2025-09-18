@@ -19,6 +19,7 @@
 | [0075-sort-colors](https://github.com/anjali-purohit16/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/anjali-purohit16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjali-purohit16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali1684/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/anjali-purohit16/LeetCode/tree/master/0134-gas-station) |
@@ -127,6 +128,7 @@
 | [0015-3sum](https://github.com/anjali-purohit16/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/anjali-purohit16/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anjali-purohit16/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anjali-purohit16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
@@ -148,6 +150,7 @@
 | [0061-rotate-list](https://github.com/Anjali1684/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/anjali-purohit16/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anjali1684/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/anjali-purohit16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/anjali-purohit16/LeetCode/tree/master/0443-string-compression) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anjali-purohit16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anjali1684/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
