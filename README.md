@@ -181,6 +181,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/anjali-purohit16/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Anjali1684/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
 |  |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 ## Trie
 |  |
@@ -279,4 +281,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/anjali-purohit16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
