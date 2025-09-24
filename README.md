@@ -67,6 +67,7 @@
 | [0042-trapping-rain-water](https://github.com/anjali-purohit16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anjali-purohit16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/anjali-purohit16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/anjali-purohit16/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjali-purohit16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali1684/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/anjali-purohit16/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Anjali1684/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anjali-purohit16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
@@ -275,6 +277,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anjali-purohit16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
