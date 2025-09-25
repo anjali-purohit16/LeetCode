@@ -35,6 +35,7 @@
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Anjali1684/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0842-card-flipping-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0842-card-flipping-game) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -138,6 +139,7 @@
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Linked List
 |  |
@@ -157,6 +159,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anjali1684/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/anjali-purohit16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/anjali-purohit16/LeetCode/tree/master/0443-string-compression) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anjali-purohit16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anjali1684/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Counting Sort
@@ -198,6 +201,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anjali1684/LeetCode/tree/master/0069-sqrtx) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anjali1684/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Tree
 |  |
@@ -292,4 +296,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
