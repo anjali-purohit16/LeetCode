@@ -38,6 +38,7 @@
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0842-card-flipping-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0842-card-flipping-game) |
+| [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anjali-purohit16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Anjali1684/LeetCode/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anjali1684/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anjali-purohit16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3447-clear-digits](https://github.com/Anjali1684/LeetCode/tree/master/3447-clear-digits) |
@@ -164,6 +166,7 @@
 | [0088-merge-sorted-array](https://github.com/anjali-purohit16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/anjali-purohit16/LeetCode/tree/master/0443-string-compression) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anjali-purohit16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anjali1684/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Counting Sort
@@ -268,6 +271,7 @@
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0174-dungeon-game) |
+| [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/anjali-purohit16/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -280,6 +284,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
+| [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 ## Trie
 |  |
