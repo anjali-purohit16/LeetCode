@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/anjali-purohit16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anjali-purohit16/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anjali-purohit16/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/anjali-purohit16/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
@@ -102,6 +103,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Anjali1684/LeetCode/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Anjali1684/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anjali-purohit16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Anjali1684/LeetCode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0174-dungeon-game) |
