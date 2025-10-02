@@ -45,6 +45,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/Anjali1684/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/anjali-purohit16/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anjali-purohit16/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anjali1684/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anjali-purohit16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anjali1684/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -275,6 +276,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/anjali-purohit16/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anjali-purohit16/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Topological Sort
 |  |
 | ------- |
