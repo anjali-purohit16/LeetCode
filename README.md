@@ -82,6 +82,7 @@
 | [0174-dungeon-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Anjali1684/LeetCode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/anjali-purohit16/LeetCode/tree/master/0312-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1008-binary-tree-cameras](https://github.com/Anjali1684/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Greedy
@@ -91,6 +92,7 @@
 | [0134-gas-station](https://github.com/anjali-purohit16/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anjali-purohit16/LeetCode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjali1684/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali1684/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Anjali1684/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Anjali1684/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -125,6 +128,7 @@
 | [0205-isomorphic-strings](https://github.com/anjali-purohit16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/anjali-purohit16/LeetCode/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Anjali1684/LeetCode/tree/master/1666-make-the-string-great) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
