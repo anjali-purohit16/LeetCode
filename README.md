@@ -33,6 +33,7 @@
 | [0198-house-robber](https://github.com/Anjali1684/LeetCode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0312-burst-balloons](https://github.com/anjali-purohit16/LeetCode/tree/master/0312-burst-balloons) |
+| [0334-increasing-triplet-subsequence](https://github.com/anjali-purohit16/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/Anjali1684/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Anjali1684/LeetCode/tree/master/0682-baseball-game) |
@@ -96,6 +97,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali1684/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/anjali-purohit16/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anjali-purohit16/LeetCode/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/anjali-purohit16/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/anjali-purohit16/LeetCode/tree/master/0768-partition-labels) |
