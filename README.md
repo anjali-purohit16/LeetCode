@@ -74,6 +74,7 @@
 | [0842-card-flipping-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0842-card-flipping-game) |
 | [0940-fruit-into-baskets](https://github.com/anjali-purohit16/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anjali-purohit16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 ## Dynamic Programming
 |  |
@@ -145,6 +146,7 @@
 | [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/anjali-purohit16/LeetCode/tree/master/0768-partition-labels) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anjali-purohit16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/Anjali1684/LeetCode/tree/master/1666-make-the-string-great) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anjali-purohit16/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
@@ -210,6 +212,7 @@
 | [0076-minimum-window-substring](https://github.com/anjali-purohit16/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjali-purohit16/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/anjali-purohit16/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anjali-purohit16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anjali-purohit16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
