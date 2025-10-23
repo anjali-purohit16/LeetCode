@@ -1,22 +1,20 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-     vector<int>freq(26,0);
-     int n=s.length();
-     int count=0,curCount=0,left=0;
-     for(int right=0;right<n;right++)
-     {
-        freq[s[right]-'a']++;
-        if(freq[s[right]-'a']==1)
-          curCount++;
-        while(curCount==3){
-            count+=n-right;
-            freq[s[left]-'a']--;
-            if(freq[s[left]-'a']==0)
-             curCount--;
-        left++;
+        int n = s.size();
+        int count[3] = {0};  // count of 'a', 'b', 'c'
+        int left = 0, result = 0;
+
+        for (int right = 0; right < n; right++) {
+            count[s[right] - 'a']++;
+
+            // Shrink the window until it's missing one of the letters
+            while (count[0] > 0 && count[1] > 0 && count[2] > 0) {
+                result += n - right;  // every substring starting here is valid
+                count[s[left] - 'a']--;
+                left++;
+            }
         }
-     }
-     return count;
+        return result;
     }
 };
