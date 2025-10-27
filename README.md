@@ -43,6 +43,7 @@
 | [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/anjali-purohit16/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/anjali-purohit16/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1095-two-city-scheduling](https://github.com/anjali-purohit16/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -73,6 +74,7 @@
 | [0768-partition-labels](https://github.com/anjali-purohit16/LeetCode/tree/master/0768-partition-labels) |
 | [0842-card-flipping-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0842-card-flipping-game) |
 | [0940-fruit-into-baskets](https://github.com/anjali-purohit16/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anjali-purohit16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
@@ -212,6 +214,7 @@
 | [0076-minimum-window-substring](https://github.com/anjali-purohit16/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjali-purohit16/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/anjali-purohit16/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anjali-purohit16/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anjali-purohit16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
@@ -331,6 +334,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anjali-purohit16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anjali-purohit16/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Divide and Conquer
