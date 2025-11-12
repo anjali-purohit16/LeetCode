@@ -160,6 +160,7 @@
 | [1666-make-the-string-great](https://github.com/Anjali1684/LeetCode/tree/master/1666-make-the-string-great) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anjali-purohit16/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
+| [3379-score-of-a-string](https://github.com/anjali-purohit16/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Anjali1684/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
