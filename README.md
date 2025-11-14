@@ -251,6 +251,7 @@
 | [0069-sqrtx](https://github.com/Anjali1684/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anjali-purohit16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
+| [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anjali-purohit16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
@@ -287,6 +288,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali1684/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Anjali1684/LeetCode/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Anjali1684/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1008-binary-tree-cameras](https://github.com/Anjali1684/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anjali1684/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -307,6 +309,7 @@
 | [0101-symmetric-tree](https://github.com/Anjali1684/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anjali1684/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Anjali1684/LeetCode/tree/master/0207-course-schedule) |
+| [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anjali1684/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -339,6 +342,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
+| [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
 ## Trie
