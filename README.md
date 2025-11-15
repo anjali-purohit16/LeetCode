@@ -252,6 +252,7 @@
 | [0070-climbing-stairs](https://github.com/anjali-purohit16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
 | [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [0888-mirror-reflection](https://github.com/anjali-purohit16/LeetCode/tree/master/0888-mirror-reflection) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anjali-purohit16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
@@ -374,4 +375,12 @@
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+## Geometry
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/anjali-purohit16/LeetCode/tree/master/0888-mirror-reflection) |
+## Number Theory
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/anjali-purohit16/LeetCode/tree/master/0888-mirror-reflection) |
 <!---LeetCode Topics End-->
