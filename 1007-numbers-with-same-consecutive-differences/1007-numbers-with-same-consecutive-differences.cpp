@@ -1,20 +1,28 @@
 class Solution {
 public:
-void dfs(int num,int n,int k,vector<int>&res){
-    if(n ==0){
-        res.push_back(num);
-        return;
-    }
-    int lastdigit=num%10;
-    if(lastdigit+k<=9) dfs(num*10+lastdigit+k,n-1,k,res);
-    if(k!=0 && lastdigit-k>=0) dfs(num*10+lastdigit-k,n-1,k,res);
-}
     vector<int> numsSameConsecDiff(int n, int k) {
         vector<int>res;
-        for(int num=1;num<=9;num++){
-            dfs(num,n-1,k,res);
+        queue<int>q;
+        for(int i=1;i<=9;i++){
+            q.push(i);
         }
-        
-        return res;
+
+        int len=1;
+        while(!q.empty() && len<n){
+            len++;
+            int s=q.size();
+            for(int i=0;i<s;i++){
+                int currnum=q.front();
+                q.pop();
+                int last =currnum%10;
+                if(last+k<=9) q.push(currnum*10+last+k);
+                if(k!=0 && last-k>=0) q.push(currnum*10+last-k);
+            }
+        }
+        while(!q.empty()){
+            res.push_back(q.front());
+            q.pop();
+        }
+    return res;
     }
 };
