@@ -36,6 +36,7 @@
 | [0312-burst-balloons](https://github.com/anjali-purohit16/LeetCode/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/anjali-purohit16/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/Anjali1684/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0546-remove-boxes](https://github.com/anjali-purohit16/LeetCode/tree/master/0546-remove-boxes) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Anjali1684/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
@@ -102,6 +103,7 @@
 | [0174-dungeon-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Anjali1684/LeetCode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/anjali-purohit16/LeetCode/tree/master/0312-burst-balloons) |
+| [0546-remove-boxes](https://github.com/anjali-purohit16/LeetCode/tree/master/0546-remove-boxes) |
 | [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1008-binary-tree-cameras](https://github.com/Anjali1684/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -357,6 +359,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/anjali-purohit16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
+| [0546-remove-boxes](https://github.com/anjali-purohit16/LeetCode/tree/master/0546-remove-boxes) |
 ## Prefix Sum
 |  |
 | ------- |
