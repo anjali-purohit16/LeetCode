@@ -244,6 +244,7 @@
 | [0051-n-queens](https://github.com/Anjali1684/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/anjali-purohit16/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Math
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anjali1684/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Anjali1684/LeetCode/tree/master/0207-course-schedule) |
 | [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/anjali-purohit16/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anjali1684/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
