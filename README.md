@@ -63,6 +63,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/anjali-purohit16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anjali1684/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anjali-purohit16/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/anjali-purohit16/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -265,6 +266,7 @@
 | [0888-mirror-reflection](https://github.com/anjali-purohit16/LeetCode/tree/master/0888-mirror-reflection) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anjali-purohit16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Anjali1684/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anjali-purohit16/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Enumeration
 |  |
 | ------- |
