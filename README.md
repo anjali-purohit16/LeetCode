@@ -50,6 +50,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anjali-purohit16/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1095-two-city-scheduling](https://github.com/anjali-purohit16/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anjali-purohit16/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anjali-purohit16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -111,6 +112,7 @@
 | [0546-remove-boxes](https://github.com/anjali-purohit16/LeetCode/tree/master/0546-remove-boxes) |
 | [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1008-binary-tree-cameras](https://github.com/Anjali1684/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anjali-purohit16/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
@@ -125,6 +127,7 @@
 | [0768-partition-labels](https://github.com/anjali-purohit16/LeetCode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/anjali-purohit16/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/anjali-purohit16/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anjali-purohit16/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Stack
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/anjali-purohit16/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/anjali-purohit16/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anjali-purohit16/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Linked List
 |  |
