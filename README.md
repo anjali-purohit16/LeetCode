@@ -269,6 +269,7 @@
 | [0069-sqrtx](https://github.com/Anjali1684/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anjali-purohit16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0888-mirror-reflection](https://github.com/anjali-purohit16/LeetCode/tree/master/0888-mirror-reflection) |
@@ -410,4 +411,12 @@
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/anjali-purohit16/LeetCode/tree/master/0888-mirror-reflection) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
