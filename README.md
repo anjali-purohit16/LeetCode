@@ -82,6 +82,7 @@
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjali-purohit16/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0756-pyramid-transition-matrix](https://github.com/anjali-purohit16/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/anjali-purohit16/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/anjali-purohit16/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0842-card-flipping-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0842-card-flipping-game) |
@@ -168,6 +169,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/anjali-purohit16/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/anjali-purohit16/LeetCode/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/anjali-purohit16/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0756-pyramid-transition-matrix](https://github.com/anjali-purohit16/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/anjali-purohit16/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/anjali-purohit16/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali1684/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -261,6 +263,7 @@
 | [0051-n-queens](https://github.com/Anjali1684/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
+| [0756-pyramid-transition-matrix](https://github.com/anjali-purohit16/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/anjali-purohit16/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Math
 |  |
@@ -367,6 +370,7 @@
 | [0078-subsets](https://github.com/Anjali1684/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0231-power-of-two) |
 | [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/anjali-purohit16/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anjali-purohit16/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2390-naming-a-company](https://github.com/anjali-purohit16/LeetCode/tree/master/2390-naming-a-company) |
