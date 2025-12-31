@@ -43,6 +43,7 @@
 | [0739-daily-temperatures](https://github.com/Anjali1684/LeetCode/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0840-magic-squares-in-grid](https://github.com/anjali-purohit16/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0842-card-flipping-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0842-card-flipping-game) |
 | [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/anjali-purohit16/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -85,6 +86,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/anjali-purohit16/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/anjali-purohit16/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/anjali-purohit16/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0840-magic-squares-in-grid](https://github.com/anjali-purohit16/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0842-card-flipping-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0842-card-flipping-game) |
 | [0940-fruit-into-baskets](https://github.com/anjali-purohit16/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -275,6 +277,7 @@
 | [0292-nim-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [0840-magic-squares-in-grid](https://github.com/anjali-purohit16/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0888-mirror-reflection](https://github.com/anjali-purohit16/LeetCode/tree/master/0888-mirror-reflection) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anjali-purohit16/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anjali-purohit16/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -355,6 +358,7 @@
 | [0064-minimum-path-sum](https://github.com/Anjali1684/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Anjali1684/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0174-dungeon-game) |
+| [0840-magic-squares-in-grid](https://github.com/anjali-purohit16/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/anjali-purohit16/LeetCode/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anjali-purohit16/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/anjali-purohit16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
