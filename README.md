@@ -305,6 +305,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali1684/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Anjali1684/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Anjali1684/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anjali-purohit16/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Anjali1684/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1008-binary-tree-cameras](https://github.com/Anjali1684/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anjali-purohit16/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anjali1684/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -331,6 +333,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali1684/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Anjali1684/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Anjali1684/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anjali-purohit16/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 | [0207-course-schedule](https://github.com/Anjali1684/LeetCode/tree/master/0207-course-schedule) |
 | [0672-bulb-switcher-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/anjali-purohit16/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anjali-purohit16/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anjali1684/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
