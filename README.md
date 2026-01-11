@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/anjali-purohit16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjali-purohit16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali1684/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/anjali-purohit16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/anjali-purohit16/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anjali-purohit16/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
@@ -78,6 +79,7 @@
 | [0041-first-missing-positive](https://github.com/Anjali1684/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anjali-purohit16/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anjali-purohit16/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/anjali-purohit16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/anjali-purohit16/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anjali-purohit16/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -350,6 +352,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anjali-purohit16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anjali1684/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
