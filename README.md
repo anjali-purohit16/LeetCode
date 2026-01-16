@@ -36,6 +36,7 @@
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0312-burst-balloons](https://github.com/anjali-purohit16/LeetCode/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/anjali-purohit16/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/Anjali1684/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0546-remove-boxes](https://github.com/anjali-purohit16/LeetCode/tree/master/0546-remove-boxes) |
@@ -85,6 +86,7 @@
 | [0205-isomorphic-strings](https://github.com/anjali-purohit16/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjali-purohit16/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0756-pyramid-transition-matrix](https://github.com/anjali-purohit16/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/anjali-purohit16/LeetCode/tree/master/0768-partition-labels) |
@@ -205,6 +207,7 @@
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anjali1684/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 | [0759-set-intersection-size-at-least-two](https://github.com/anjali-purohit16/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -245,6 +248,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anjali-purohit16/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Anjali1684/LeetCode/tree/master/0561-array-partition) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anjali-purohit16/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/anjali-purohit16/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -410,6 +414,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/anjali-purohit16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anjali-purohit16/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -419,6 +424,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anjali-purohit16/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Geometry
 |  |
@@ -436,4 +442,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anjali-purohit16/LeetCode/tree/master/0292-nim-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anjali-purohit16/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
